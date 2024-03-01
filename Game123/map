@@ -1,0 +1,50 @@
+RN: Smichov
+ID: 1
+Exit: East 2
+Exit: South 4
+abcdef
+RN: Andel
+ID: 2
+Exit: South 5
+Exit: West 1
+Exit: East 3
+abcdef
+RN: I.P.Pavlova
+ID: 3
+Exit: South 6
+Exit: West 2
+abcdef
+RN: Muzeum
+ID: 4
+Exit: North 1
+Exit: South 7
+Exit: East 5
+abcdef
+RN: Vysehrad
+ID: 5
+Exit: North 2
+Exit: East 6
+Exit: West 4
+Exit: South 8
+abcdef
+RN: Haje
+ID: 6
+Exit: West 5
+Exit: South 9
+Exit: North 3
+abcdef
+RN: Mustek
+ID: 7
+Exit: North 4
+Exit: East 8
+abcdef
+RN: Radlicka
+ID: 8
+Exit: West 7
+Exit: East 9
+Exit: North 5
+abcdef
+RN: Dejvicka
+ID: 9
+Exit: West 8
+Exit: North 6
